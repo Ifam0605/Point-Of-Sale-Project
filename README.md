@@ -1,6 +1,6 @@
 # Point of Sale (POS) System
 
-Welcome to the **Point of Sale (POS) System** developed by **Mohammed-Sasni**.  
+Welcome to the **Point of Sale (POS) System** developed by **Mohamed Ifam**.  
 This is a robust and user-friendly POS application designed to streamline sales, inventory, and customer management for small to medium-sized businesses.  
 The system is built using the **Laravel PHP framework** to ensure scalability, security, and ease of maintenance.
 
@@ -126,7 +126,7 @@ For questions, suggestions, or issues, feel free to reach out:
  ## Clone the Repository
 
    ```bash
-   git clone https://github.com/Mohammed-Sasni/Point-Of-Sale-System.git
+   https://github.com/Ifam0605/Point-Of-Sale-Project.git
    ```
 
 ---

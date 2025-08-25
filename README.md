@@ -17,6 +17,7 @@ The system is built using the **Laravel PHP framework** to ensure scalability, s
 - [License](#license)
 - [Contact](#contact)
 
+![preview img](preview.jpeg)
 ---
 
 ## 📌 Project Overview

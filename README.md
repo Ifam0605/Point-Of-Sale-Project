@@ -4,6 +4,8 @@ Welcome to the **Point of Sale (POS) System** developed by **Mohammed-Sasni**.
 This is a robust and user-friendly POS application designed to streamline sales, inventory, and customer management for small to medium-sized businesses.  
 The system is built using the **Laravel PHP framework** to ensure scalability, security, and ease of maintenance.
 
+![preview img](preview.jpeg)
+
 ---
 
 ## 📑 Table of Contents
@@ -17,7 +19,7 @@ The system is built using the **Laravel PHP framework** to ensure scalability, s
 - [License](#license)
 - [Contact](#contact)
 
-![preview img](preview.jpeg)
+
 ---
 
 ## 📌 Project Overview
